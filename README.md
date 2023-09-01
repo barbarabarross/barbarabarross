@@ -1,3 +1,6 @@
+img scr="![imagem para o github](https://github.com/barbarabarross/barbarabarross/assets/143613009/2a9dfbab-83b6-42f5-97b6-fab14ac81f15)" width"100px" height="90"
+
+<br>
 <strong><cite>Prazer meu nome é Barbara Barros, mas pode me chamar de Babi</cite></strong>!😄
 
 -😊Eu sou @barbarabarross<br>
