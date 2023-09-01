@@ -1,4 +1,4 @@
-![imagem para o github](https://github.com/barbarabarross/barbarabarross/assets/143613009/2a9dfbab-83b6-42f5-97b6-fab14ac81f15) whidth"60%"
+<img scr=![imagem para o github](https://github.com/barbarabarross/barbarabarross/assets/143613009/2a9dfbab-83b6-42f5-97b6-fab14ac81f15) whidth"60%">
 
 <br>
 <strong><cite>Prazer meu nome é Barbara Barros, mas pode me chamar de Babi</cite></strong>!😄
