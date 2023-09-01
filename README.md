@@ -1,5 +1,6 @@
-<h2>Prazer meu nome é Barbara Barros, mas pode me chamar de Babi!😄</h2>
+ <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-tecnologia-2.gif" width=90% heigth=100>
 
+<h2>Prazer meu nome é Barbara Barros, mas pode me chamar de Babi!😄</h2>
 
 -😊Eu sou @barbarabarross<br>
 -📚Atualmente estou estudando programação no IOS(Instituto da Oportunidade Social)<br>
