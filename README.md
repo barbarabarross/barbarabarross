@@ -1,5 +1,3 @@
- <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-tecnologia-2.gif" width=90% heigth=100>
-
 <h2>Prazer meu nome é Barbara Barros, mas pode me chamar de Babi!😄</h2>
 
 -😊Eu sou @barbarabarross<br>
@@ -14,3 +12,5 @@
   <a href="www.linkedin.com/in/bárbara-barros-63037127b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+ <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-tecnologia-2.gif" width=90% heigth=100>
