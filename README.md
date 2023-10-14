@@ -22,8 +22,6 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabarross&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Bárbara Barros github stats" />
 </p>
 
-<h3>Tecnologias que Estudo atualmente:</h3>
-  
 </div>
 
  <img src="https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-tecnologia-2.gif" width=90% heigth=100>
