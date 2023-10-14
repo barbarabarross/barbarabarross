@@ -16,6 +16,13 @@
   <a href = "mailto:barbarabarros837@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/b%C3%A1rbara-barros-63037127b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/channels/@barbarabarros._" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+  <p>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=barbarabarross&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bárbara Barros github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarabarross&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Bárbara Barros github stats" />
+</p>
+
+<h3>Tecnologias que Estudo atualmente:</h3>
   
 </div>
 
