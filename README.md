@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4D4DFF&size=35&center=true&vCenter=true&width=900&lines=Prazer!+Meu+nome+é+Bárbara+Barros,;mas+pode+me+chamar+de+Babi!;)](https://git.io/typing-svg)
 
--😊Eu sou @barbarabarross<br>
--📚Atualmente estou estudando programação no IOS(Instituto da Oportunidade Social)<br>
--🎓Meu objetivo é entrar em uma faculdade de Tecnologia<br>
+-😊Sejam bem-vindos, é um prazer ter você aqui<br>
+-📚Atualmente estou estudando Ciências da computação na Uninassau<br>
 -📌<samp>"Nunca deixe que o medo sufoque os seus sonhos"</samp><br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div>
